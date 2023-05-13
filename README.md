@@ -1,2 +1,2 @@
 # mini_games_maths
-lab 2 de algoritmia y programacion II con tanto minijuegos como lo seia triquis y funciones matematicas hecho en java
+laboratorio 2 de algoritmia y programacion II con tanto minijuegos como lo seria triquis y funciones matematicas hecho en java
